@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert Zoldos
 - 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning Phython algorithm
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Phython, HTML, and PHP
+- 💞️ I’m looking to collaborate on anything space or flight related!
 - 📫 How to reach me rjz0003@mix.wvu.edu
 
 <!---
